@@ -25,6 +25,3 @@ $routes->set404Override(function( $message = null )
     . view('frontend/auth/pagenotfound', $data)
     . view('frontend/layout/footer');
 });
-
-
-

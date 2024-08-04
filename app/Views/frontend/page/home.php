@@ -7,7 +7,7 @@
             <div class="col-md-9 col-xl-7">
                 <div class="banner-content">
                     <span>Simple. Transparent. Secure</span>
-                    <h2> Online Payment Solution</h2>
+                    <h2 class="animate-charcter"> Online Payment Solution</h2>
                     <p>The Smart Way for Online Payment Solution.</p>
                     <div class="banner-btn">
                         <a href="search.html" class="btn main-btn">Sign In</a>

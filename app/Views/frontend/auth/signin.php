@@ -7,7 +7,7 @@
                 <div class="account-content">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-md-7 col-lg-6 login-left">
-                            <img src="public/upload/auth/benefit-image.png" class="img-fluid" alt="DreamsCLG Login">	
+                            <img src="public/upload/auth/benefit-image.png" class="img-fluid" alt="DreamsCLG Login">
                         </div>
                         <div class="col-md-12 col-lg-6 login-right">
                             <div class="login-header">
@@ -71,7 +71,8 @@
                                 </div>
 
                                 <div class="form-group form-focus">
-                                    <input type="email" placeholder="Reg No./ Email / Reference No. / Mobile No." class="form-control floating">
+                                    <input type="email" placeholder="Reg No./ Email / Reference No. / Mobile No."
+                                        class="form-control floating">
                                     <label class="focus-label">Reg No./ Email / Reference No. / Mobile No.</label>
                                 </div>
                                 <div class="form-group form-focus">
@@ -88,12 +89,14 @@
                                 </div>
                                 <div class="row form-row social-login">
                                     <div class="col-12">
-                                        <a href="<?php echo base_url('payonlineusingregno') ?>" class="btn btn-facebook btn-block w-100">
-                                        <i class="fas fa-arrow-alt-circle-right"></i>
-                                         Pay Fee Online Using Reg. No.</a>
+                                        <a href="<?php echo base_url('payonlineusingregno') ?>"
+                                            class="btn btn-facebook btn-block w-100">
+                                            <i class="fas fa-arrow-alt-circle-right"></i>
+                                            Pay Fee Online Using Reg. No.</a>
                                     </div>
                                 </div>
-                                <div class="text-center dont-have">Don’t have an account? <a href="<?php echo base_url('signup') ?>">Register</a></div>
+                                <div class="text-center dont-have">Don’t have an account? <a
+                                        href="<?php echo base_url('signup') ?>">Register</a></div>
                             </form>
                         </div>
                     </div>
@@ -103,6 +106,5 @@
         </div>
     </div>
     <br><br>
-</div>		
+</div>
 <!-- /Page Content -->
-             
